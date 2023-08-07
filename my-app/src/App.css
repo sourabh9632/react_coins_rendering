@@ -1,0 +1,58 @@
+  .navbar{
+    background-color: black;
+    
+  }
+
+  .navbar-brand{
+    color: azure;
+  }
+
+  .nav-link  {
+    color: aliceblue;
+  }
+
+  .nav-link:hover{
+    color: orange;
+  }
+
+  .navbar-brand :hover{
+    color: orange;
+  }
+
+ .rocket{
+ margin-bottom: 40px;
+ margin-top: 50px;
+  
+ }
+
+ .ing{
+  width: 200px;
+  text-align: center;
+  justify-content: center;
+  padding-left: 150px;
+  margin-top: 20px;
+   
+  
+ }
+
+ .card_tittle{
+  justify-content: center;
+  text-align: center;
+  color:black;
+ }
+
+ .card_text{
+  justify-content: center;
+  text-align: center;
+  color: black;
+ }
+
+ 
+ .cla{
+  width: 900px;
+  
+ }
+
+ .card-img-top{
+  text-align: center;
+ }
